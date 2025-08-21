@@ -25,12 +25,12 @@ Use proper ESD protection to prevent component damage
 
  <h2>Software Requirements</h2> 
 
-Recovery DVD/CD or bootable USB
-Antivirus software on bootable media
-Diagnostic software
+- Recovery DVD/CD or bootable USB
+- Antivirus software on bootable media
+- Diagnostic software
 
-Optional but Helpful
+<h2>Optional but Helpful</h2>
 
-Compressed air canister
-Cleaning solutions and monitor wipes
+-Compressed air canister
+-Cleaning solutions and monitor wipes
   

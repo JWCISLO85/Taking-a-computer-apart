@@ -1,4 +1,4 @@
-<h2>Desktop Computer Disassembly Guide</h2>
+ss<h2>Desktop Computer Disassembly Guide</h2>
 A comprehensive step-by-step tutorial for safely taking apart a desktop computer for educational, repair, or upgrade purposes.
 
 <h2>📋 Overview</h2>
@@ -58,7 +58,7 @@ Before starting:
 - Unplug all cables and peripherals
 - Hold power button for 3 seconds to drain residual power
 
-![Open Case](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/20220228_182323.mp4)
+**[Watch Case Opening Video](20220228_182323.mp4)
 
 Open case using manufacturer's release mechanism
 

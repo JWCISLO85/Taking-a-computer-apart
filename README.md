@@ -1,4 +1,4 @@
-ss<h2>Desktop Computer Disassembly Guide</h2>
+<h2>Desktop Computer Disassembly Guide</h2>
 A comprehensive step-by-step tutorial for safely taking apart a desktop computer for educational, repair, or upgrade purposes.
 
 <h2>📋 Overview</h2>
@@ -75,6 +75,8 @@ Open case using manufacturer's release mechanism
 <strong>Step 4: Disconnect Motherboard</strong>
 
 Various power connections that need to be disconnected
+
+![Motherboard Removal]https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Motherboard.png
 
 - Disconnect all power cables (SATA, P1 connector, etc.)
 - Remove heatsink by unscrewing mounting hardware

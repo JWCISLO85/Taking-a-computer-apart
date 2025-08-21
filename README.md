@@ -47,6 +47,8 @@ Use proper ESD protection to prevent component damage.
 
 <strong>Step 2: Opening the Case</strong>
 
+![Screw Cup](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Screws%20Cup.png)
+
 - Proper screw organization using labeled cups
 
 Before starting:

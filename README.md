@@ -105,6 +105,8 @@ Various power connections that need to be disconnected
 
 <strong>Step 7: Remove Storage Drives</strong>
 
+![Storage Drives](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Remove%20Drives.png)
+
 - Remove optical drive by pressing release clips
 - Remove hard drives through removable bays
 - Disconnect any remaining cables

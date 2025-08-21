@@ -10,7 +10,7 @@ CRITICAL SAFETY WARNINGS:
 Never touch the inside of a computer when it's turned on (except when using a multimeter)
 NEVER remove the cover of a power supply or monitor - they contain lethal voltages even when unplugged
 Always remove jewelry before starting
-Use proper ESD protection to prevent component damage
+Use proper ESD protection to prevent component damage.
 
 <h2>🛠️ Required Tools</h2>
 
@@ -33,4 +33,60 @@ Use proper ESD protection to prevent component damage
 
 - Compressed air canister
 - Cleaning solutions and monitor wipes
+
+<h2>📖 Step-by-Step Process</h2>
+
+Step 1: Organization and Preparation
+
+Remove loose jewelry
+Set up labeled cups for screws
+Prepare anti-static workspace
+Review safety guidelines
+
+Step 2: Opening the Case
+Show Image
+Proper screw organization using labeled cups
+
+Before starting:
+
+Back up important data to external drive
+Power down system completely
+Unplug all cables and peripherals
+Hold power button for 3 seconds to drain residual power
+
+
+Open case using manufacturer's release mechanism
+
+Step 3: Remove Expansion Cards
+
+Loosen securing screws
+Release bay covers by squeezing internal latches
+Carefully remove cards from slots
+
+Step 4: Disconnect Motherboard
+Show Image
+Various power connections that need to be disconnected
+
+Disconnect all power cables (SATA, P1 connector, etc.)
+Remove heatsink by unscrewing mounting hardware
+Document cable connections with photos if needed
+
+Step 5: Remove Motherboard
+
+Remove all motherboard mounting screws
+Carefully lift motherboard out (avoid touching chips)
+Store screws in labeled containers
+Remove case fans
+
+Step 6: Remove Power Supply
+
+Identify case-mounted screws (see circled screws in guide)
+Remove only external mounting screws
+Gently slide power supply out
+
+Step 7: Remove Storage Drives
+
+Remove optical drive by pressing release clips
+Remove hard drives through removable bays
+Disconnect any remaining cables
   

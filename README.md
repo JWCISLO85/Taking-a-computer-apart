@@ -66,6 +66,8 @@ Open case using manufacturer's release mechanism
 
 ![Expansion Cards](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Ports%20on%20expansion%20card.png)
 
+![Bay Clips](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Holding%20Bay%20Covers.png)
+
 - Loosen securing screws
 - Release bay covers by squeezing internal latches
 - Carefully remove cards from slots

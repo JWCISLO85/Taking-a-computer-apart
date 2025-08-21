@@ -58,7 +58,7 @@ Before starting:
 - Unplug all cables and peripherals
 - Hold power button for 3 seconds to drain residual power
 
-**[Watch Case Opening Video](20220228_182323.mp4)
+
 
 Open case using manufacturer's release mechanism
 

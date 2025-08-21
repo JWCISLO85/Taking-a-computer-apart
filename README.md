@@ -2,7 +2,7 @@
 A comprehensive step-by-step tutorial for safely taking apart a desktop computer for educational, repair, or upgrade purposes.
 
 <h2>📋 Overview</h2>
-This guide provides detailed instructions for disassembling a desktop computer, complete with safety protocols, required tools, and visual documentation. This was a project I completed during my studies at Cape Cod Community College.
+This guide provides detailed instructions for disassembling a desktop computer, complete with safety protocols, required tools, and visual documentation. 
 
 <h2>⚠️Safety First</h2>
 CRITICAL SAFETY WARNINGS:

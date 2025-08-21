@@ -78,6 +78,8 @@ Various power connections that need to be disconnected
 
 ![Motherboard Removal](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Motherboard.png)
 
+![SATA and IDE Cables] (https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20SATA%20and%20IDE%20connectors.png)
+
 - Disconnect all power cables (SATA, P1 connector, etc.)
 - Remove heatsink by unscrewing mounting hardware
 - Document cable connections with photos if needed

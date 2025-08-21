@@ -11,3 +11,26 @@ Never touch the inside of a computer when it's turned on (except when using a mu
 NEVER remove the cover of a power supply or monitor - they contain lethal voltages even when unplugged
 Always remove jewelry before starting
 Use proper ESD protection to prevent component damage
+
+<h2>🛠️ Required Tools</h2>
+
+- ESD strap (anti-static wrist strap)
+- Flathead screwdriver
+- Phillips head crosshead screwdriver
+- Tweezers (preferably insulated)
+- Anti-static bags for component storage
+- Anti-static mat
+- Plastic cups for screw organization
+- Labels for cup identification
+
+ <h2>Software Requirements</h2> 
+
+Recovery DVD/CD or bootable USB
+Antivirus software on bootable media
+Diagnostic software
+
+Optional but Helpful
+
+Compressed air canister
+Cleaning solutions and monitor wipes
+  

@@ -64,6 +64,8 @@ Open case using manufacturer's release mechanism
 
 <strong>Step 3: Remove Expansion Cards</strong>
 
+![Expansion Cards]()
+
 - Loosen securing screws
 - Release bay covers by squeezing internal latches
 - Carefully remove cards from slots

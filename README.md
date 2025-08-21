@@ -59,6 +59,7 @@ Before starting:
 - Hold power button for 3 seconds to drain residual power
 
 ![Open Case](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/20220228_182323.mp4)
+
 Open case using manufacturer's release mechanism
 
 <strong>Step 3: Remove Expansion Cards</strong>

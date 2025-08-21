@@ -13,7 +13,9 @@ Always remove jewelry before starting
 Use proper ESD protection to prevent component damage.
 
 <h2>🛠️ Required Tools</h2>
+
 ![Tool Kit](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Tool%20kit.png)
+
 - ESD strap (anti-static wrist strap)
 - Flathead screwdriver
 - Phillips head crosshead screwdriver

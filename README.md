@@ -84,7 +84,9 @@ Various power connections that need to be disconnected
 - Remove heatsink by unscrewing mounting hardware
 - Document cable connections with photos if needed
 
-<strong>Step 5: Remove Motherboard</strong>
+<strong> Remove Motherboard</strong>
+
+![Fan]https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Fan.png
 
 - Remove all motherboard mounting screws
 - Carefully lift motherboard out (avoid touching chips)

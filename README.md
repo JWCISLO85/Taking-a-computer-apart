@@ -13,7 +13,7 @@ Always remove jewelry before starting
 Use proper ESD protection to prevent component damage.
 
 <h2>🛠️ Required Tools</h2>
-
+![Tool Kit](Tool%kit.png)
 - ESD strap (anti-static wrist strap)
 - Flathead screwdriver
 - Phillips head crosshead screwdriver

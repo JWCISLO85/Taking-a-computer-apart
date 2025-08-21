@@ -86,7 +86,7 @@ Various power connections that need to be disconnected
 
 <strong> Remove Motherboard</strong>
 
-![Fan]https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Fan.png
+![Fan](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Fan.png)
 
 - Remove all motherboard mounting screws
 - Carefully lift motherboard out (avoid touching chips)

@@ -96,7 +96,9 @@ Various power connections that need to be disconnected
 - Remove case fans
 
 <strong>Step 6: Remove Power Supply</strong>
+
 ![Power Supply](https://github.com/JWCISLO85/Taking-a-computer-apart/blob/main/Removing%20Power%20Supply.png)
+
 - Identify case-mounted screws (see circled screws in guide)
 - Remove only external mounting screws
 - Gently slide power supply out
